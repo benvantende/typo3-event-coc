@@ -12,4 +12,4 @@ We expect all participants—attendees, speakers, sponsors, and volunteers—to 
 
 Please bring any concerns to the immediate attention of the event staff, or contact the community working group at typo3-team-cwg@lists.typo3.org. We thank our participants for your help in keeping a TYPO3 event welcoming, respectful, and friendly to all participants.
 
-Thanks to the Lean Startup, the jsconf.us and the O 'Reilly folks, whose Codes of Conduct inspired our own.
+Thanks to the [Lean Startup](http://2014.leanstartup.co/code-of-conduct/), the [jsconf.us](http://jsconf.com/codeofconduct.html) and the [O 'Reilly](http://www.oreilly.com/conferences/code-of-conduct.html) folks, whose Codes of Conduct inspired our own.
