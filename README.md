@@ -1,6 +1,6 @@
 # TYPO3 Event Code of Conduct
 
-At the TYPO3 events, we assume that most people are intelligent and well-intended, and we're not inclined to tell people what to do. However, we want every TYPO3 event to be a safe and productive environment for everyone. To that end, this code of conduct spells out the behavior we support and don't support at TYPO3 events. The core of our approach is this:
+At TYPO3 events, we assume that most people are intelligent and well-intended, and we're not inclined to tell people what to do. However, we want every TYPO3 event to be a safe and productive environment for everyone. To that end, this code of conduct spells out the behavior we support and don't support at TYPO3 events. The core of our approach is this:
 
 We don't condone harassment or offensive behavior, at our event venues or anywhere. It's counter to our community values. More importantly, it's counter to our values as human beings.
 
